@@ -1,2 +1,6 @@
 Code example:
 https://en.wikibooks.org/wiki/Algorithm_Implementation/Mathematics/Prime_number_generation
+
+divide.c (Распечатка всех делителей составных чисел):
+D:\PROGS\CodeBlocks\MinGW\bin\gcc.exe -std=c99 -o divide.exe divide.c
+D:\PROGS\CodeBlocks\MinGW\bin\strip.exe divide.exe
